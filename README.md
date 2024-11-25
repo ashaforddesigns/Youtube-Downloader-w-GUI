@@ -11,5 +11,6 @@ To practice building GUIs and create a simple YouTube downloader. This GUI shoul
 - Switching to yt-dlp 
 I intended to use pytube but as of Nov 25 2024 it appears that pytube is not working. It's unfortunate because I found pytube documentation to be a lot cleaner and more acessible.
 - OOP
-So, I completely skipped this unit in the (Python for Everyone)[py4e.com] course. It's coming back to bite me now that I'm using a lot of libraries to write code. I'm going to go back and review this topic in more depth.
+So, I completely skipped this unit in the [Python for Everyone](py4e.com) course. It's coming back to bite me now that I'm using a lot of libraries to write code. I'm going to go back and review this topic in more depth.
 <!--Could implement a "paste from clipboard" button, or even do it automatically>
+<!--Could add a photo previewer>
